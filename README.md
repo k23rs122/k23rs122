@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub
 
-<!--
-**k23rs122/k23rs122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+組込みシステム・SIer・ITエンジニア職を目指して学習中の学生エンジニアです。
 
-Here are some ideas to get you started:
+## 🔧 スキル・使用技術
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 言語: C, C++
+- RTOS: TOPPERS/ASP3
+- モデリング: SysML, UML (Astah)
+- バージョン管理: Git, GitHub
+- ドキュメント管理: Obsidian, Notion
+
+## 🤖 主な活動
+
+### 組込みロボットコンテスト
+- チームでのモデル開発をリード(要求分析・設計フェーズを担当)
+- ユースケース図、要求図、状態遷移図、FMEA分析などを作成
+- チームメンバーの開発環境構築サポート、Gitを使ったチーム開発の管理
+- 全国大会 モデル部門にて上位入賞
+
+## 💼 その他の経験
+
+- 接客業を通じて、コミュニケーション能力や課題発見力を養う
+- 長期間のチームスポーツ経験を通じて、目標達成に向けた協調性を培う
+
+## 📫 Contact
+
+- GitHub: [@k23rs122](https://github.com/k23rs122)
+
+---
+⭐ このプロフィールは学習・ポートフォリオ目的で作成しています。

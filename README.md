@@ -4,11 +4,12 @@
 
 ## 🔧 スキル・使用技術
 
-- 言語: C, C++
+- 言語: C, C++, java, javascript, HTML, CSS, 
 - RTOS: TOPPERS/ASP3
 - モデリング: SysML, UML (Astah)
 - バージョン管理: Git, GitHub
 - ドキュメント管理: Obsidian, Notion
+- 使用AI: Claude Code, chatGPT, copilot, Gemini
 
 ## 🤖 主な活動
 
